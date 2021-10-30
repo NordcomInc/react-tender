@@ -26,9 +26,10 @@ import { Currency } from 'react-tender';
 
 ### 3. Use
 
-```javascript
+```tsx
 <Currency
-    value={9.99} // Required
-    currency="USD" // Optional, (defaults to USD)
+    value={9.99}        // Required
+    currency="USD"      // Optional, (defaults to USD)
+    locale="en-US"      // Optional, (defaults to en-US)
 />
 ```
