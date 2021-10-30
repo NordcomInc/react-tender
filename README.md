@@ -4,6 +4,7 @@
 
 ## Why use react-tender?
 
+-   Stupidly simple (Pretty much just toLocaleString).
 -   Written in TypeScript (that's right, fight me).
 -   Actively maintained.
 -   Open Source with an actually free license (MIT).
