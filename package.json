@@ -1,13 +1,10 @@
 {
     "name": "react-tender",
-    "version": "0.1.2",
+    "version": "0.2.0",
     "description": "Render and format currencies easily",
     "main": "./dist/cjs/index.js",
     "module": "./dist/esm/index.js",
     "types": "./dist/esm/index.d.ts",
-    "files": [
-        "./dist"
-    ],
     "scripts": {
         "build": "npm-run-all build:*",
         "build:esm": "tsc",
