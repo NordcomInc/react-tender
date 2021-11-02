@@ -1,6 +1,6 @@
 # react-tender
 
-[![License](https://img.shields.io/github/license/filiphsandstrom/react-tender.svg)](https://github.com/filiphsandstrom/react-tender/blob/master/LICENSE) [![npm](https://img.shields.io/npm/filiphsandstrom/react-tender.svg)](https://www.npmjs.com/package/react-tender) [![Contributors](https://img.shields.io/github/contributors/filiphsandstrom/react-tender.svg)](https://github.com/filiphsandstrom/react-tender/graphs/contributors)
+[![License](https://img.shields.io/github/license/filiphsandstrom/react-tender.svg)](https://github.com/filiphsandstrom/react-tender/blob/master/LICENSE) [![npm](https://img.shields.io/npm/dt/react-tender)](https://www.npmjs.com/package/react-tender) [![Contributors](https://img.shields.io/github/contributors/filiphsandstrom/react-tender.svg)](https://github.com/filiphsandstrom/react-tender/graphs/contributors)
 
 ## Why use react-tender?
 
