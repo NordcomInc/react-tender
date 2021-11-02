@@ -8,6 +8,7 @@
 -   Written in TypeScript (that's right, fight me).
 -   Actively maintained.
 -   Open Source with an actually free license (MIT).
+-   0/ZERO/NADA/NOLL dependencies.
 
 ## Getting started
 
