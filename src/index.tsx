@@ -6,12 +6,14 @@ interface CurrencyProps {
     currency?: string;
 }
 export const Currency: FunctionComponent<CurrencyProps> = ({ value, locale, currency }) => {
-    return (
-        <>
-            {value.toLocaleString(locale ?? 'en-US', {
-                style: 'currency',
-                currency: currency ?? 'USD'
-            })}
-        </>
-    );
+    let formatted = '';
+
+    if (Intl) formatted = new Intl.NumberFormat(locale, { style: 'currency', currency }).format(value);
+    else
+        value.toLocaleString(locale ?? 'en-US', {
+            style: 'currency',
+            currency: currency ?? 'USD'
+        });
+
+    return <>{formatted}</>;
 };
