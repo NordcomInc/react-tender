@@ -1,6 +1,6 @@
 # react-tender
 
-[![License](https://img.shields.io/github/license/filiphsandstrom/react-tender.svg)](https://github.com/filiphsandstrom/react-tender/blob/master/LICENSE) [![npm](https://img.shields.io/npm/dt/react-tender)](https://www.npmjs.com/package/react-tender) [![Contributors](https://img.shields.io/github/contributors/filiphsandstrom/react-tender.svg)](https://github.com/filiphsandstrom/react-tender/graphs/contributors)
+[![License](https://img.shields.io/github/license/filiphsps/react-tender.svg)](https://github.com/filiphsps/react-tender/blob/master/LICENSE) [![npm](https://img.shields.io/npm/dt/react-tender)](https://www.npmjs.com/package/react-tender) [![Contributors](https://img.shields.io/github/contributors/filiphsps/react-tender.svg)](https://github.com/filiphsps/react-tender/graphs/contributors)
 
 ## Why use react-tender?
 
@@ -30,8 +30,8 @@ import { Currency } from 'react-tender';
 
 ```jsx
 <Currency
-    value={9.99}        // Required
-    currency="USD"      // Optional, (defaults to USD)
-    locale="en-US"      // Optional, (defaults to en-US)
+    value={9.99} // Required
+    currency="USD" // Optional, (defaults to USD)
+    locale="en-US" // Optional, (defaults to en-US)
 />
 ```
