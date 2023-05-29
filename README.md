@@ -2,6 +2,8 @@
 
 [![License](https://img.shields.io/github/license/filiphsps/react-tender.svg)](https://github.com/filiphsps/react-tender/blob/master/LICENSE) [![npm](https://img.shields.io/npm/dt/react-tender)](https://www.npmjs.com/package/react-tender) [![Contributors](https://img.shields.io/github/contributors/filiphsps/react-tender.svg)](https://github.com/filiphsps/react-tender/graphs/contributors)
 
+React currency component. Built for [Sweet Side of Sweden](https://www.sweetsideofsweden.com?utm_source=GitHub&utm_campaign=react-tender) with ❤️.
+
 ## Why use react-tender?
 
 -   Stupidly simple (Pretty much just toLocaleString).
