@@ -1,5 +1,5 @@
 {
     "extends": [
-        "github>sweet-side-of-sweden/renovate-config"
+        "github>NordcomInc/renovate-config"
     ]
 }
