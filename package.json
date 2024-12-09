@@ -28,7 +28,7 @@
     "homepage": "https://github.com/filiphsps/react-tender#readme",
     "devDependencies": {
         "@types/react": "19.0.1",
-        "@types/react-dom": "19.0.1",
+        "@types/react-dom": "19.0.2",
         "npm-run-all2": "7.0.1",
         "react": "19.0.0",
         "react-dom": "19.0.0",
